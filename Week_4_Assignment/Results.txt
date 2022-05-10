@@ -1,0 +1,100 @@
+The result of the algorithm assumes optimal play from both sides and will result in the static evalulation score at the end of that search.
+position, depth, isMaxPlayer: A, 3, True
+childcounter: 3
+position, depth, isMaxPlayer: B, 2, False
+childcounter: 2
+position, depth, isMaxPlayer: E, 1, True
+childcounter: 3
+position, depth, isMaxPlayer: K, 0, False
+childcounter: 0
+Static Eval: 2
+evaluated: 2
+maxEval: 2
+position, depth, isMaxPlayer: L, 0, False
+childcounter: 0
+Static Eval: 1
+evaluated: 1
+maxEval: 2
+position, depth, isMaxPlayer: M, 0, False
+childcounter: 0
+Static Eval: 3
+evaluated: 3
+maxEval: 3
+evaluated: 3
+minEval: 3
+position, depth, isMaxPlayer: F, 1, True
+childcounter: 2
+position, depth, isMaxPlayer: N, 0, False
+childcounter: 0
+Static Eval: 5
+evaluated: 5
+maxEval: 5
+position, depth, isMaxPlayer: O, 0, False
+childcounter: 0
+Static Eval: 4
+evaluated: 4
+maxEval: 5
+evaluated: 5
+minEval: 3
+evaluated: 3
+maxEval: 3
+position, depth, isMaxPlayer: C, 2, False
+childcounter: 2
+position, depth, isMaxPlayer: G, 1, True
+childcounter: 1
+position, depth, isMaxPlayer: P, 0, False
+childcounter: 0
+Static Eval: 7
+evaluated: 7
+maxEval: 7
+evaluated: 7
+minEval: 7
+position, depth, isMaxPlayer: H, 1, True
+childcounter: 2
+position, depth, isMaxPlayer: Q, 0, False
+childcounter: 0
+Static Eval: 6
+evaluated: 6
+maxEval: 6
+position, depth, isMaxPlayer: R, 0, False
+childcounter: 0
+Static Eval: 8
+evaluated: 8
+maxEval: 8
+evaluated: 8
+minEval: 7
+evaluated: 7
+maxEval: 7
+position, depth, isMaxPlayer: D, 2, False
+childcounter: 2
+position, depth, isMaxPlayer: I, 1, True
+childcounter: 2
+position, depth, isMaxPlayer: S, 0, False
+childcounter: 0
+Static Eval: 9
+evaluated: 9
+maxEval: 9
+position, depth, isMaxPlayer: T, 0, False
+childcounter: 0
+Static Eval: 10
+evaluated: 10
+maxEval: 10
+evaluated: 10
+minEval: 10
+position, depth, isMaxPlayer: J, 1, True
+childcounter: 2
+position, depth, isMaxPlayer: U, 0, False
+childcounter: 0
+Static Eval: 12
+evaluated: 12
+maxEval: 12
+position, depth, isMaxPlayer: V, 0, False
+childcounter: 0
+Static Eval: 1
+evaluated: 1
+maxEval: 12
+evaluated: 12
+minEval: 10
+evaluated: 10
+maxEval: 10
+The result of the MinMax algorithm on the game_tree is: 10

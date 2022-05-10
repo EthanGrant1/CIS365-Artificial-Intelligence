@@ -1,0 +1,416 @@
+Probability of Iris-setosa: 0.7856336758156265
+Probability of Iris-versicolor: 0.07305868779204115
+Probability of Iris-virginica: 0.049622570772403354
+
+Iris classified as 'Iris-setosa'.
+Actual classification: Iris-setosa
+
+Probability of Iris-setosa: 0.9629896468123335
+Probability of Iris-versicolor: 0.11347233444490772
+Probability of Iris-virginica: 0.07351875962091799
+
+Iris classified as 'Iris-setosa'.
+Actual classification: Iris-setosa
+
+Probability of Iris-setosa: 0.7178849645463096
+Probability of Iris-versicolor: 0.7971995078933805
+Probability of Iris-virginica: 0.4930218041980946
+
+Iris classified as 'Iris-versicolor'.
+Actual classification: Iris-setosa
+
+Probability of Iris-setosa: 1.0565884481482828
+Probability of Iris-versicolor: 0.4749025761199264
+Probability of Iris-virginica: 0.28514231273932894
+
+Iris classified as 'Iris-setosa'.
+Actual classification: Iris-setosa
+
+Probability of Iris-setosa: 0.5310446978283909
+Probability of Iris-versicolor: 0.9830476681311804
+Probability of Iris-virginica: 0.6275329491264842
+
+Iris classified as 'Iris-versicolor'.
+Actual classification: Iris-setosa
+
+Probability of Iris-setosa: 1.0982240705858153
+Probability of Iris-versicolor: 0.17052667198826976
+Probability of Iris-virginica: 0.1065849455549617
+
+Iris classified as 'Iris-setosa'.
+Actual classification: Iris-setosa
+
+Probability of Iris-setosa: 1.1652741481889088
+Probability of Iris-versicolor: 0.24795841294190193
+Probability of Iris-virginica: 0.15120715749644492
+
+Iris classified as 'Iris-setosa'.
+Actual classification: Iris-setosa
+
+Probability of Iris-setosa: 0.5310446978283909
+Probability of Iris-versicolor: 0.9830476681311804
+Probability of Iris-virginica: 0.6275329491264842
+
+Iris classified as 'Iris-versicolor'.
+Actual classification: Iris-setosa
+
+Probability of Iris-setosa: 1.0982240705858153
+Probability of Iris-versicolor: 0.17052667198826976
+Probability of Iris-virginica: 0.1065849455549617
+
+Iris classified as 'Iris-setosa'.
+Actual classification: Iris-setosa
+
+Probability of Iris-setosa: 0.27670842937676493
+Probability of Iris-versicolor: 0.016000101219004963
+Probability of Iris-virginica: 0.013396619925536554
+
+Iris classified as 'Iris-setosa'.
+Actual classification: Iris-setosa
+
+Probability of Iris-setosa: 1.1503581621920123
+Probability of Iris-versicolor: 0.3488587210750943
+Probability of Iris-virginica: 0.20990733555423394
+
+Iris classified as 'Iris-setosa'.
+Actual classification: Iris-setosa
+
+Probability of Iris-setosa: 1.1652741481889088
+Probability of Iris-versicolor: 0.24795841294190193
+Probability of Iris-virginica: 0.15120715749644492
+
+Iris classified as 'Iris-setosa'.
+Actual classification: Iris-setosa
+
+Probability of Iris-setosa: 0.4211341661036261
+Probability of Iris-versicolor: 0.027433943369459535
+Probability of Iris-virginica: 0.021182528154135755
+
+Iris classified as 'Iris-setosa'.
+Actual classification: Iris-setosa
+
+Probability of Iris-setosa: 0.27670842937676493
+Probability of Iris-versicolor: 0.016000101219004963
+Probability of Iris-virginica: 0.013396619925536554
+
+Iris classified as 'Iris-setosa'.
+Actual classification: Iris-setosa
+
+Probability of Iris-setosa: 1.1652741481889088
+Probability of Iris-versicolor: 0.24795841294190193
+Probability of Iris-virginica: 0.15120715749644492
+
+Iris classified as 'Iris-setosa'.
+Actual classification: Iris-setosa
+
+Probability of Iris-setosa: 1.1503581621920123
+Probability of Iris-versicolor: 0.3488587210750943
+Probability of Iris-virginica: 0.20990733555423394
+
+Iris classified as 'Iris-setosa'.
+Actual classification: Iris-setosa
+
+Probability of Iris-setosa: 0.9629896468123335
+Probability of Iris-versicolor: 0.11347233444490772
+Probability of Iris-virginica: 0.07351875962091799
+
+Iris classified as 'Iris-setosa'.
+Actual classification: Iris-setosa
+
+Probability of Iris-setosa: 1.1503581621920123
+Probability of Iris-versicolor: 0.3488587210750943
+Probability of Iris-virginica: 0.20990733555423394
+
+Iris classified as 'Iris-setosa'.
+Actual classification: Iris-setosa
+
+Probability of Iris-setosa: 0.5963296140960894
+Probability of Iris-versicolor: 0.04551326065717635
+Probability of Iris-virginica: 0.0327747308203733
+
+Iris classified as 'Iris-setosa'.
+Actual classification: Iris-setosa
+
+Probability of Iris-setosa: 0.9029141336246554
+Probability of Iris-versicolor: 0.6255235592820451
+Probability of Iris-virginica: 0.3790308022129412
+
+Iris classified as 'Iris-setosa'.
+Actual classification: Iris-setosa
+
+Probability of Iris-setosa: 0.23403831121965107
+Probability of Iris-versicolor: 1.3540736985646
+Probability of Iris-virginica: 0.9526068568005841
+
+Iris classified as 'Iris-versicolor'.
+Actual classification: Iris-versicolor
+
+Probability of Iris-setosa: 0.5310446978283909
+Probability of Iris-versicolor: 0.9830476681311804
+Probability of Iris-virginica: 0.6275329491264842
+
+Iris classified as 'Iris-versicolor'.
+Actual classification: Iris-versicolor
+
+Probability of Iris-setosa: 0.5310446978283909
+Probability of Iris-versicolor: 0.9830476681311804
+Probability of Iris-virginica: 0.6275329491264842
+
+Iris classified as 'Iris-versicolor'.
+Actual classification: Iris-versicolor
+
+Probability of Iris-setosa: 0.13943333491681212
+Probability of Iris-versicolor: 1.512524688255261
+Probability of Iris-virginica: 1.1361102173704238
+
+Iris classified as 'Iris-versicolor'.
+Actual classification: Iris-versicolor
+
+Probability of Iris-setosa: 0.03985927294873667
+Probability of Iris-versicolor: 1.7095248804055203
+Probability of Iris-virginica: 1.5141550371586558
+
+Iris classified as 'Iris-versicolor'.
+Actual classification: Iris-versicolor
+
+Probability of Iris-setosa: 0.7178849645463096
+Probability of Iris-versicolor: 0.7971995078933805
+Probability of Iris-virginica: 0.4930218041980946
+
+Iris classified as 'Iris-versicolor'.
+Actual classification: Iris-versicolor
+
+Probability of Iris-setosa: 0.03985927294873667
+Probability of Iris-versicolor: 1.7095248804055203
+Probability of Iris-virginica: 1.5141550371586558
+
+Iris classified as 'Iris-versicolor'.
+Actual classification: Iris-versicolor
+
+Probability of Iris-setosa: 5.130209985127827e-05
+Probability of Iris-versicolor: 0.9290374352426962
+Probability of Iris-virginica: 2.089424373501304
+
+Iris classified as 'Iris-virginica'.
+Actual classification: Iris-versicolor
+
+Probability of Iris-setosa: 0.0035463541928327288
+Probability of Iris-versicolor: 1.6042291083076679
+Probability of Iris-virginica: 1.9798671688219402
+
+Iris classified as 'Iris-virginica'.
+Actual classification: Iris-versicolor
+
+Probability of Iris-setosa: 0.3654896724617789
+Probability of Iris-versicolor: 1.1729144521890689
+Probability of Iris-virginica: 0.7816021150332345
+
+Iris classified as 'Iris-versicolor'.
+Actual classification: Iris-versicolor
+
+Probability of Iris-setosa: 0.5310446978283909
+Probability of Iris-versicolor: 0.9830476681311804
+Probability of Iris-virginica: 0.6275329491264842
+
+Iris classified as 'Iris-versicolor'.
+Actual classification: Iris-versicolor
+
+Probability of Iris-setosa: 0.5310446978283909
+Probability of Iris-versicolor: 0.9830476681311804
+Probability of Iris-virginica: 0.6275329491264842
+
+Iris classified as 'Iris-versicolor'.
+Actual classification: Iris-versicolor
+
+Probability of Iris-setosa: 0.019125485630542075
+Probability of Iris-versicolor: 1.7297693993307843
+Probability of Iris-virginica: 1.6920510561161939
+
+Iris classified as 'Iris-versicolor'.
+Actual classification: Iris-versicolor
+
+Probability of Iris-setosa: 0.13943333491681212
+Probability of Iris-versicolor: 1.512524688255261
+Probability of Iris-virginica: 1.1361102173704238
+
+Iris classified as 'Iris-versicolor'.
+Actual classification: Iris-versicolor
+
+Probability of Iris-setosa: 1.1652741481889088
+Probability of Iris-versicolor: 0.24795841294190193
+Probability of Iris-virginica: 0.15120715749644492
+
+Iris classified as 'Iris-setosa'.
+Actual classification: Iris-versicolor
+
+Probability of Iris-setosa: 0.3654896724617789
+Probability of Iris-versicolor: 1.1729144521890689
+Probability of Iris-virginica: 0.7816021150332345
+
+Iris classified as 'Iris-versicolor'.
+Actual classification: Iris-versicolor
+
+Probability of Iris-setosa: 0.23403831121965107
+Probability of Iris-versicolor: 1.3540736985646
+Probability of Iris-virginica: 0.9526068568005841
+
+Iris classified as 'Iris-versicolor'.
+Actual classification: Iris-versicolor
+
+Probability of Iris-setosa: 0.23403831121965107
+Probability of Iris-versicolor: 1.3540736985646
+Probability of Iris-virginica: 0.9526068568005841
+
+Iris classified as 'Iris-versicolor'.
+Actual classification: Iris-versicolor
+
+Probability of Iris-setosa: 1.1503581621920123
+Probability of Iris-versicolor: 0.3488587210750943
+Probability of Iris-virginica: 0.20990733555423394
+
+Iris classified as 'Iris-setosa'.
+Actual classification: Iris-versicolor
+
+Probability of Iris-setosa: 1.9251463843088025e-09
+Probability of Iris-versicolor: 0.100396144711955
+Probability of Iris-virginica: 0.9959635332725032
+
+Iris classified as 'Iris-virginica'.
+Actual classification: Iris-virginica
+
+Probability of Iris-setosa: 1.5251210275363198e-13
+Probability of Iris-versicolor: 0.007621094333645442
+Probability of Iris-virginica: 0.3060284717939801
+
+Iris classified as 'Iris-virginica'.
+Actual classification: Iris-virginica
+
+Probability of Iris-setosa: 0.0013704672039720862
+Probability of Iris-versicolor: 1.470387461050392
+Probability of Iris-virginica: 2.073077447063341
+
+Iris classified as 'Iris-virginica'.
+Actual classification: Iris-virginica
+
+Probability of Iris-setosa: 0.0035463541928327288
+Probability of Iris-versicolor: 1.6042291083076679
+Probability of Iris-virginica: 1.9798671688219402
+
+Iris classified as 'Iris-virginica'.
+Actual classification: Iris-virginica
+
+Probability of Iris-setosa: 0.019125485630542075
+Probability of Iris-versicolor: 1.7297693993307843
+Probability of Iris-virginica: 1.6920510561161939
+
+Iris classified as 'Iris-versicolor'.
+Actual classification: Iris-virginica
+
+Probability of Iris-setosa: 8.274936102414242e-12
+Probability of Iris-versicolor: 0.023596337672518064
+Probability of Iris-virginica: 0.5236222828197434
+
+Iris classified as 'Iris-virginica'.
+Actual classification: Iris-virginica
+
+Probability of Iris-setosa: 0.0035463541928327288
+Probability of Iris-versicolor: 1.6042291083076679
+Probability of Iris-virginica: 1.9798671688219402
+
+Iris classified as 'Iris-virginica'.
+Actual classification: Iris-virginica
+
+Probability of Iris-setosa: 0.0013704672039720862
+Probability of Iris-versicolor: 1.470387461050392
+Probability of Iris-virginica: 2.073077447063341
+
+Iris classified as 'Iris-virginica'.
+Actual classification: Iris-virginica
+
+Probability of Iris-setosa: 0.03985927294873667
+Probability of Iris-versicolor: 1.7095248804055203
+Probability of Iris-virginica: 1.5141550371586558
+
+Iris classified as 'Iris-versicolor'.
+Actual classification: Iris-virginica
+
+Probability of Iris-setosa: 4.0023820060861485e-06
+Probability of Iris-versicolor: 0.5801253636008943
+Probability of Iris-virginica: 1.8844936065379332
+
+Iris classified as 'Iris-virginica'.
+Actual classification: Iris-virginica
+
+Probability of Iris-setosa: 5.130209985127827e-05
+Probability of Iris-versicolor: 0.9290374352426962
+Probability of Iris-virginica: 2.089424373501304
+
+Iris classified as 'Iris-virginica'.
+Actual classification: Iris-virginica
+
+Probability of Iris-setosa: 4.0023820060861485e-06
+Probability of Iris-versicolor: 0.5801253636008943
+Probability of Iris-virginica: 1.8844936065379332
+
+Iris classified as 'Iris-virginica'.
+Actual classification: Iris-virginica
+
+Probability of Iris-setosa: 0.13943333491681212
+Probability of Iris-versicolor: 1.512524688255261
+Probability of Iris-virginica: 1.1361102173704238
+
+Iris classified as 'Iris-versicolor'.
+Actual classification: Iris-virginica
+
+Probability of Iris-setosa: 1.485569358061973e-05
+Probability of Iris-versicolor: 0.7463377887477493
+Probability of Iris-virginica: 2.0059553866911792
+
+Iris classified as 'Iris-virginica'.
+Actual classification: Iris-virginica
+
+Probability of Iris-setosa: 5.130209985127827e-05
+Probability of Iris-versicolor: 0.9290374352426962
+Probability of Iris-virginica: 2.089424373501304
+
+Iris classified as 'Iris-virginica'.
+Actual classification: Iris-virginica
+
+Probability of Iris-setosa: 5.130209985127827e-05
+Probability of Iris-versicolor: 0.9290374352426962
+Probability of Iris-virginica: 2.089424373501304
+
+Iris classified as 'Iris-virginica'.
+Actual classification: Iris-virginica
+
+Probability of Iris-setosa: 0.0035463541928327288
+Probability of Iris-versicolor: 1.6042291083076679
+Probability of Iris-virginica: 1.9798671688219402
+
+Iris classified as 'Iris-virginica'.
+Actual classification: Iris-virginica
+
+Probability of Iris-setosa: 0.0004927458766293569
+Probability of Iris-versicolor: 1.3040114165208823
+Probability of Iris-virginica: 2.124094258693941
+
+Iris classified as 'Iris-virginica'.
+Actual classification: Iris-virginica
+
+Probability of Iris-setosa: 0.008538142198291012
+Probability of Iris-versicolor: 1.6934999910529946
+Probability of Iris-virginica: 1.8502711027200551
+
+Iris classified as 'Iris-virginica'.
+Actual classification: Iris-virginica
+
+Correct classifications for Iris-setosa: 17
+Incorrect classifications for Iris-setosa: 2
+
+Correct classifications for Iris-versicolor: 15
+Incorrect classifications for Iris-versicolor: 6
+
+Correct classifications for Iris-virginica: 16
+Incorrect classifications for Iris-virginica: 2
+
+None
